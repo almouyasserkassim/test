@@ -1,4 +1,5 @@
 import streamlit as st
+import pyodbc
 
 st.header("Population totale dans les communes de Seine-Saint-Denis en 2021")
 
